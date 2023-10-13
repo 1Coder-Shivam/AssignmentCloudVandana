@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: 5px;
-    background-color: #538aa6; /* Light blue background */
+    background-color: #538aa6; 
 }
 
 h1 {
@@ -41,11 +41,11 @@ textarea {
 input[type="text"]:hover,
 input[type="email"]:hover,
 textarea:hover {
-    border: 1px solid #3498db; /* Border color on hover */
+    border: 1px solid #3498db; 
 }
 
 .error {
-    color: #e74c3c; /* Error message color */
+    color: #e74c3c;
     font-size: 14px;
 }
 
@@ -77,10 +77,10 @@ textarea:hover {
 }
 
 .submit-button:hover{
-    background-color: #155210; /* Button background color on hover */
+    background-color: #155210; 
 }
 .reset-button:hover {
-    background-color: #c91d1d; /* Button background color on hover */
+    background-color: #c91d1d; 
 }
 .container {
     display: flex;
@@ -90,7 +90,6 @@ textarea:hover {
     min-height: 100vh;
     background-color: #538aa6;
     margin: 0;
-    /* text-align: center; */
     padding: 20px;
 }
 
